@@ -1,0 +1,7 @@
+#Pour mettre plusieurs lignes dans un texte, placez un espace puis le caractère | après le code du texte.
+#Pour mettre une ligne vide, mettez un espace en plus.
+#Pour une unique ligne mais avec des espaces au début, utiliser l
+#Utiliser § pour les codes couleurs.
+#Les expressions %{texte}% sont des variables qui seront remplacées par des mots particuliers. Ne les modifiez pas.
+
+#Ne pas traduire cette phrase, c'est la phrase par défaut affichée à toutes les langues sans traductions.

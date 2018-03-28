@@ -1,0 +1,157 @@
+#Pour mettre plusieurs lignes dans un texte, placez un espace puis le caractère | après le code du texte.
+#Pour mettre une ligne vide, mettez un espace en plus.
+#Pour une unique ligne mais avec des espaces au début, utiliser l
+#Utiliser § pour les codes couleurs.
+#Les expressions %{texte}% sont des variables qui seront remplacées par des mots particuliers. Ne les modifiez pas.
+#Pour utiliser ":" il faut mettre le texte entre guillemet.
+
+oui: Oui
+non: Non
+aucun: Aucun
+
+#Ne pas traduire cette phrase, c'est la phrase par défaut affichée à toutes les langues sans traductions.
+spawnetape1: |
+    Welcome to §6WarShovel§f.
+    This server may not support your language.
+    You can contact us if you want to help with traduction.
+    The default traduction is french.
+     
+    Click to select your answer:
+spawnetape1-2: §a§l■ I understand.
+spawnetape2: |
+    Vous utiliser le launcher §6SquidHD§f.
+    Ce launcher a était créé par des serveurs qui sont bannis de Minecraft pour contourner le Contrat de Licence Utilisateur Final de Minecraft (CLUF/EULA) et continuer d'être accessible aux joueurs.
+    Utiliser ce launcher promouvoit ces serveurs qui ne respectent par le CLUF et par extension les joueurs.
+    WarShovel cherche à être exemplaire et est contre cela, et ne vous permet donc pas de jouer avec ce launcher.
+spawnetape3: |
+    Bienvenue sur §6WarShovel§f.
+    
+    Le §6créateur de WarShovel et son équipe§f s'engagent à:
+    
+     - Respecter le Contrat de Licence Utilisateur Final de Minecraft (CLUF/EULA).
+     - Ce que le serveur §6reste ouvert le plus longtemps§f possible tant que les finances le permettent.
+     - Ce que l'intégralité de l'argent reçu par les joueurs soit §6dépensée dans le fonctionnement du serveur§f et non en rémunération de son équipe.
+     - §6Rembourser tout dons d'argent§f à la demande du donnateur jusqu'à un mois après le don.
+     - Donner §6accès à l'intégralité du contenu§f sans contrepartie financière.
+     - Maintenanir le §6respect entre les joueurs§f.
+     - Réparer au mieux les tords qui pourrait arriver envers les joueurs.
+     - Etre §6toujours contactable§f par le biais du serveur Discord de WarShovel, sauf en cas de perturbation du serveur Discord.
+     - §6Interdire l'accès aux joueurs§f qui utilisent un §6launcher Minecraft modifié§f de §6contournement du CLUF§f de Minecraft.
+    
+    Cliquez sur votre réponse:
+     
+spawnetape3-2: §a§l■ J'ai compris les engagements de WarShovel
+spawnetape4: |
+    Voici le réglement que vous devez acceptez:
+    
+    Ce serveur est la propriété de son créateur. Merci de respecter le serveur et ses utilisateurs.
+      §61.§f Ne pas tricher.
+      §62.§f Signaler tout problème technique au plus vite.
+      §63.§f Respectez verbalement au spawn et sur le serveur Discord.
+      §64.§f Ne pas utiliser un pseudonyme Minecraft offensant.
+    Ce serveur s'assimile à un lieu public. Il s'adresse donc à des personnes matures capablent de supporter un langage parfois choquant.
+      §65.§f Un langage choquant est toléré dans les discussions locales.
+     
+    Cliquez sur votre réponse:
+     
+spawnetape4-2: §a§l■ J'accepter le règlement
+spawnetape5: |
+    Rejoignez le §6serveur Discord§f de WarShovel pour obtenir de l'aider, discuter textuellement ou vocalement avec les autres joueurs, suivre les dernières nouveautés et participer au développement.
+    Créez vous un compte avec une adresse mail et un pseudonyme si vous n'avez pas encore de compte.
+     
+spawnetape5-2: §6Cliquez sur ce message pour ouvrir le serveur Discord.
+spawnetape5-3: |
+    
+    Une fois sur le serveur Discord. Ecrivez ce code §6%{_code}%§f de validation dans le salon de discussion "§6Validation§f" pour lié votre compte Discord à votre compte WarShovel.
+spawnetape6: |
+    Vous devez installer le mod §6Optifine§f en version §61.12.2§f.
+    Il rajoute des optimisations, des options graphiques plus complètes et des améliorations graphiques.
+     
+    Voici le lien vers le téléchargement de la dernière version d'Optifine pour Minecraft 1.12.2 sur le site de son développeur:
+spawnetape6-2: |
+    §9§nCliquez sur ce message pour ouvrir la page de téléchargement
+spawnetape6-3: |
+    Votre version actuelle est la version %{_version}%.
+     
+    Cliquez sur votre réponse:
+spawnetape6-4: §a§l■ J'ai installé Optifine en version 1.12.2
+spawnetape7: |
+    Le pack de ressources du serveur permet de modifier et rajouter du contenu.
+    Pour le recevoir, vous devez au préalable régler l'option qui se trouve dans votre liste de serveur.
+    Bouton "§6Echap§f" > "§6Déconnexion§f" > §6WarShovel§f > "§6Modifier§f" > "§6Pack de ressources: Activés§f"
+    Par défaut, cette option est réglée sur ""Demander"" ce qui vous demandera si vous souhaitez télécharger le pack avec un message sur votre écran.
+    Si vous avez réglé l'option sur ""Désactivés"", vous serez expulser du serveur pour que vous puissiez la régler sur "Activés".
+     
+    Cliquez sur votre réponse:"
+spawnetape7-2: §a§ll■ Télécharger le pack de ressources
+spawnetape8: |
+    Téléchargement et patchage du pack de ressources en cour...
+    Ne passez pas le téléchargement en tache de fond en appuiant sur ""Echap"".
+    Ne vous déconnectez pas.
+     
+    En cas de problème, essayez de vous déconnecter.
+    Si le problème perciste, rendez vous sur la FAQ sur http://www.warshovel.fr.
+spawnetape9: Le §6lecteur audio§f vous permettre de recevoir des §6musiques§f et des §6sons§f par votre navigateur internet.
+spawnetape10: |
+    Les serveurs Minecraft ont une distance d'affichage maximale de 16 chunks.
+    Il est donc inutile de régler votre distance d'affichage sur plus de 16 chunks.
+    Bouton "§6Echap§f" > "§6Options...§f" > "§6Options graphiques...§f" > "§6Dist. Affichage: 16§f".
+spawnetape11: |
+    Vous avez découvert §6WarShovel§f grâce aux joueurs qui ont voté sur les sites de votes pour vous le faire connaitre.
+    A votre tour de votez sur les sites de votes ci-dessous pour faire découvrir §fWarShovel§f à d'autres joueurs.
+    Vous recevrez §e5⚜§f après avoir voté pour vous remercier.
+     
+    Si vous rencontrez un problème avec un site de votes, signalez le sur Discord pour que nous puissions le désactiver temporairement.
+spawnetape11-2: |
+    - 1. §cCliquez pour ouvrir le premier site de votes.
+     
+spawnetape11-3: |
+    - 1. §aValidé.
+     
+spawnetape11-4: |
+    - 2. §cCliquez pour ouvrir le deuxième site de votes.
+     
+spawnetape11-5: |
+    - 2. §aValidé.
+     
+spawnetape11-6: |
+    - 3. §cCliquez pour ouvrir le troisième site de votes.
+     
+spawnetape11-7: |
+    - 3. §aValidé.
+     
+spawnetape20: |
+    Vous venez de terminer les prérequis pour jouer sur §6WarShovel§f.
+    Vous pouvez maintenant passez le portail pour rejoindre WarShovel.
+    Des informations vous sont encore disponibles au spawn.
+
+
+
+spawninventaireprincipal: §fPrincipal
+
+spawninventaireepee: §fÉpée
+spawninventairearc: §fArc
+spawninventairegraine: §fGraines
+
+
+
+spawnmenuprincipal: §0Menu Principal
+
+spawnmenupays: §7Pays
+spawnmenulangue: §7Langue
+spawnmenuarrivee: §7Arrivé le
+spawnmenucouronnes: §fCouronnes
+spawnmenuabonnement: §fAbonnement
+spawnmenupersonnage: §fPersonnage séléctionné
+spawnmenupersonnagelore: §7Cliquez pour changer
+spawnmenuparametres: §fParamètres
+
+spawnstatsouvert: Ouvert depuis 
+spawnstatsouvert: Joueurs
+spawnstatsdonateurs: Donateurs
+spawnstatspersonnages: Personnages
+spawnstatfamilles: Familles
+spawnstatregions: Régions
+spawnstatroyaumes: Royaumes
+
+spawnnews: "Crieur Public: §7Plus de nouvelles sont disponible sur le Discord."
